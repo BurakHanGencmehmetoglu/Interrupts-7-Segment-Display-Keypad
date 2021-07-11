@@ -1,0 +1,2 @@
+Timers, interrrupts, 7-Segment display, keypad and basic I/O concepts implemented for PIC18F4620 microcontroller using PIC assembly language.
+hex file is also provided. Code can be run after uploading hex file to the Picsimlab.
